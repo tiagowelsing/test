@@ -1,6 +1,6 @@
-from funcao import analisar_lista
+from main import analisar_lista
 
-numeros = [10, 5, 20, 15, 30]
+numeros = [10, 23, 5, 8, 12, 33, 42, 7, 19, 28, 3, 16, 9, 50, 21]
 
 resultado = analisar_lista(numeros)
 
